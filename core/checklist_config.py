@@ -39,7 +39,7 @@ CHECKLIST = {
 		],
 		"Filtro zeólita": [
 			{"id": "retrolavagem", "label": "Retrolavagem automática operando", "type": "bool"},
-			{"id": "alarmes_falhas", "label": "Sem alarmes / falhas visíveis
+			{"id": "alarmes_falhas", "label": "Sem alarmes / falhas visíveis", "type": "bool"},
 			{"id": "perca_agua", "label": "Sem perda excessiva de água", "type": "bool"},
 		],
 		"Controle microbiológico": [
